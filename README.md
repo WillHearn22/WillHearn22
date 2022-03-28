@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WillHearn22
 - 👀 I’m interested in ... Learning the skills to become a software engineer.
-- 🌱 I’m currently learning ... Pytho, HTML and java.
+- 🌱 I’m currently learning ... Python, HTML and java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... willhearn@mail.com
 
